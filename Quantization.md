@@ -14,6 +14,8 @@
   - Memory Wall Problem 줄이기
   - __binary-code based quantization__(공부할 것)으로 binary quantization의 이점을 유지
 
+![elbt_alg](./elbt_alg.png)
+
 # ALTERNATING MULTI-BIT QUANTIZATION FOR RECURRENT NEURAL NETWORKS
 # Network Sketching: Exploiting Binary Structure in Deep CNNs
 
