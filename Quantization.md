@@ -13,3 +13,11 @@
 - Non-uniform Quantization은 HW 관점에서 어떻게 좋은가?
   - Memory Wall Problem 줄이기
   - __binary-code based quantization__(공부할 것)으로 binary quantization의 이점을 유지
+
+# ALTERNATING MULTI-BIT QUANTIZATION FOR RECURRENT NEURAL NETWORKS
+# Network Sketching: Exploiting Binary Structure in Deep CNNs
+
+- __binary-code based quantization__ 부분 발췌
+
+# BiQGEMM: Matrix Multiplication with Lookup Table For Binary-Coding-based Quantized DNNs
+![biqgemm_quant](./biqgemm_quant.png)
